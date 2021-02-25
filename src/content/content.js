@@ -1,6 +1,8 @@
 function Content() {
     return (
-        <div>Content</div>
+        <div class="text-center bg-purple-600">
+            Content
+        </div>
     )
 }
 
